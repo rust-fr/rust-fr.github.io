@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Rust FR : ressources utiles pour Rust en français"
+title: "Rust FR : Ressources Francophones"
 email: ""
 description: > # this means to ignore newlines until "baseurl:"
-    Ce site a pour vocation de regrouper des ressources utiles au programmeur Rust francophone.
+    Répertoire d'informations et ressources francophones autour du language Rust.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rust-fr.github.io/" # the base hostname & protocol for your site
 twitter_username: ""
