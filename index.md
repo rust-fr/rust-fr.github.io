@@ -9,8 +9,8 @@ pas lui-même de contenu mais redirige le lecteur vers d'autres ressources.
 ## Présentation du language
 {:#presentation-du-language}
 
-- [Scala.IO - Léo Testard - Sûreté mémoire avec Rust](https://www.youtube.com/watch?v=UVUUGjAbKGs) {% icon fa-video-camera %}
-- [PyConFR 2013 - Simon Sapin - Introduction à Rust](https://www.youtube.com/watch?v=qjxihcTJZ34) {% icon fa-video-camera %}
+- [Scala.IO - Léo Testard - Sûreté mémoire avec Rust](https://www.youtube.com/watch?v=UVUUGjAbKGs) <i class="fa fa-video-camera"></i>
+- [PyConFR 2013 - Simon Sapin - Introduction à Rust](https://www.youtube.com/watch?v=qjxihcTJZ34) <i class="fa fa-video-camera"></i>
 
 ## Tutoriels
 
