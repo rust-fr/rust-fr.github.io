@@ -20,8 +20,8 @@ _Généralistes_:
 
 _Spécialisés_:
 
-- [Les emprunts et les durées de vies](http://blog.levans.fr/borrowing-and-lifetimes-in-rust.html)
-- [Pseudo-héritage avec Deref](http://blog.levans.fr/pseudo-inheritance-in-rust-with-deref.html)
+- [Les emprunts et les durées de vies](http://levans.fr/borrowing-and-lifetimes-in-rust-fr.html)
+- [Pseudo-héritage avec Deref](http://levans.fr/pseudo-inheritance-in-rust-with-deref-fr.html)
 
 ## Discussions et aide
 
